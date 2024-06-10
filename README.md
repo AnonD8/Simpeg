@@ -1,6 +1,6 @@
 # Simpeg
 
-Sebelum menjalankan aplikasi ini, pastikan Anda telah melakukan langkah-langkah berikut:
+Sebelum menjalankan aplikasi ini, pastikan telah melakukan langkah-langkah berikut:
 
 
 1. **Membuat Database**
