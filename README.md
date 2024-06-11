@@ -40,7 +40,7 @@ CREATE TABLE pegawai (
 2. **Menyesuaikan Folder Gambar**
    - Buat folder `images` di dalam folder `htdocs`, tepatnya pada server web (misal, `C:\xampp\htdocs\nama_web\images` untuk XAMPP).
    - Di dalam folder `images`, buat subfolder `pegawai` untuk menyimpan foto pegawai.
-   - Sesuaikan nilai `$foto_path` dalam kode Anda dengan lokasi folder `pegawai` yang baru dibuat.
+   - Sesuaikan nilai `$foto_path` dalam kode dengan lokasi folder `pegawai` yang baru dibuat.
 
 ```php
 $foto_path = '/nama_web/images/pegawai/' . $foto_name;
