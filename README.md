@@ -46,4 +46,5 @@ CREATE TABLE pegawai (
 $foto_path = '/nama_web/images/pegawai/' . $foto_name;
 ```
 
-Namun jika ingin menggunakan path pada kode, buat folder dan subfolder pada `htdocs` seperti ini `/PWL/proyek/images/pegawai/`
+3. **Buat folder**
+   - Namun jika ingin menggunakan path pada kode, buat folder dan subfolder di dalam folder `htdocs` seperti ini `/PWL/proyek/images/pegawai/`
